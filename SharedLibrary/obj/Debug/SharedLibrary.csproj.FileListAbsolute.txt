@@ -1,0 +1,6 @@
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\megag\source\repos\ОС_ЛР_6_1\SharedLibrary\obj\Debug\SharedLibrary.pdb

@@ -1,0 +1,9 @@
+2024-05-23 18:27:06 - Starting Client 1 with arguments: 5
+2024-05-23 18:27:06 - Client 1 started with lifetime 5 seconds.
+2024-05-23 18:27:06 - Starting Client 2 with arguments: 6
+2024-05-23 18:27:06 - Client 2 started with lifetime 6 seconds.
+2024-05-23 18:27:06 - Starting Client 3 with arguments: 7
+2024-05-23 18:27:06 - Client 3 started with lifetime 7 seconds.
+2024-05-23 18:27:11 - Client 1 terminated after 5 seconds.
+2024-05-23 18:27:12 - Client 2 terminated after 6 seconds.
+2024-05-23 18:27:13 - Client 3 terminated after 7 seconds.

@@ -1,0 +1,10 @@
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\bin\Debug\client.exe.config
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\bin\Debug\client.exe
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\bin\Debug\client.pdb
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.exe
+C:\Users\megag\source\repos\ОС_ЛР_6_1\client\obj\Debug\client.pdb

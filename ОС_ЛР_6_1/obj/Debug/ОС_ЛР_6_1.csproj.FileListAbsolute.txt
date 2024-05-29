@@ -1,0 +1,14 @@
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\bin\Debug\ОС_ЛР_6_1.exe.config
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\bin\Debug\ОС_ЛР_6_1.exe
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\bin\Debug\ОС_ЛР_6_1.pdb
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.csproj.AssemblyReference.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.Properties.Resources.resources
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.csproj.GenerateResource.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.csproj.CoreCompileInputs.cache
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.exe
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.pdb
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.Form1.resources
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\bin\Debug\SharedLibrary.dll
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\bin\Debug\SharedLibrary.pdb
+C:\Users\megag\source\repos\ОС_ЛР_6_1\ОС_ЛР_6_1\obj\Debug\ОС_ЛР_6_1.csproj.CopyComplete
